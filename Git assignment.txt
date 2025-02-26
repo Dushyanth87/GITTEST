@@ -1,0 +1,15 @@
+Git assignment:
+
+Task 1: Understand the Git commands.
+
+Task 2: Create a directory locally, initialize Git, add some files, and push them to the Welltech repository on GitHub by setting up the remote with git remote add (Note: Create a repository named Welltech on GitHub).
+
+Task 3: Create 3 new branches: welltech, main, demo, and switch to welltech. Add new dummy files, and push them to the Welltech repository.
+
+Task 4: Switch to the main branch, add some files, push them to the Welltech repository, and then raise a pull request to merge into the master branch (If you encounter conflict errors, try to resolve them).
+
+Task 5: Create a new folder on your laptop. Then, clone the Welltech repository using git clone, make changes in the welltech and master branches, and push the changes.
+
+Task 6: Use git checkout <commit-hash> -- filename to retrieve the old code. Provide the old commit hash, and you will see the old code.
+
+Task 7: explore git stash and git merge topics
