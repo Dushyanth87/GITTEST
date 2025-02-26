@@ -12,4 +12,4 @@ Task 5: Create a new folder on your laptop. Then, clone the Welltech repository 
 
 Task 6: Use git checkout <commit-hash> -- filename to retrieve the old code. Provide the old commit hash, and you will see the old code.
 
-Task 7: explore git stash and git merge topics
+Task 7: explore git stash and git merge topics,sure.
